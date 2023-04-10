@@ -7,7 +7,7 @@ AWS Lambda and Amazon API Gateway.
 What's Here
 -----------
 
-This sample includes:
+This sample includes folowing steps:
 
 * README.md - this file
 * buildspec.yml - this file is used by AWS CodeBuild to package your
